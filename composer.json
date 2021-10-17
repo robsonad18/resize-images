@@ -1,0 +1,8 @@
+{
+    "name": "robson/resize-images",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
